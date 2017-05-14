@@ -32,7 +32,7 @@
     "grunt-eslint": "*",
     "grunt-contrib-clean": "*",
     "grunt-mocha-test": "*",
-    "mocha": "*"
+    "mocha": "3.3.0"
   },
   "license": "MIT"
 }
